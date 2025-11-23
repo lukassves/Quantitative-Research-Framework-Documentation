@@ -4,7 +4,7 @@ Quantitative Research Framework Documentation
 
 Author: Lukas Svešnikovas
 
-Version: November 2025
+November 2025
 
 Classification: Confidential — Internal Use Only
 
